@@ -55,8 +55,8 @@ Python, Linux, Networking, SQL, IoT, Blockchain, Data Science, Deep Learning, Tr
 
 ## Additional Information
 - **Languages:** Fluent in English (5/5), Marathi (5/5), Hindi (4/5), and German (2/5)
-- Passionate about mentoring junior data scientists and fostering a collaborative learning environment.
-- Active contributor to open-source data science projects on GitHub.
+- Passionate about Chess, Theology and Philosophy.
+- "I enjoy my work".
 
 ---
 
